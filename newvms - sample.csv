@@ -1,0 +1,3 @@
+VMName,VMPrimarySubnet,VMPrimaryMask,VMBackupSubnet,VMBackupMask,VMTemplate,VMDatastore,Notes,Datacenter,EDrive
+server01,10.140.232.0,255.255.252.0,10.140.234.0,255.255.255.0,2008R2 Template,DS01,Project 1,DC 1,50
+server02,10.170.186.0,255.255.254.0,10.140.233.0,255.255.255.128,2012R2 Template,DS02,Project 2,DC 2,0
